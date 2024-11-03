@@ -1,0 +1,11 @@
+{
+  "name": "hof_function",
+  "version": "1.0.0",
+  "description": "10 higher order function ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
